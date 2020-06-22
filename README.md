@@ -10,9 +10,9 @@ Favourably, there is a growing global concern over this issue that is turning th
 
 Our team has consequently decided to focus on this topic: search for potential locations that can be reforested using Astro Pi Izzy’s camera in the ISS with further satellite data to obtain results in almost real-time.
 
+[1] Jean-Francois Bastin, Yelena Finegold, Claude Garcia, Danilo Mollicone, Marcelo Rezende, Devin Routh, Constantin M. Zohner, Thomas W. Crowther. (2019). The global tree restoration potential. 10.1126/science.aax0848.
+
 ## Team Members
 Alfonso Medina Marrero
 Alfonso Santana Samper
 Paula Catalan
-
-[1] Jean-Francois Bastin, Yelena Finegold, Claude Garcia, Danilo Mollicone, Marcelo Rezende, Devin Routh, Constantin M. Zohner, Thomas W. Crowther. (2019). The global tree restoration potential. 10.1126/science.aax0848.
