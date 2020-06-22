@@ -14,5 +14,7 @@ Our team has consequently decided to focus on this topic: search for potential l
 
 ## Team Members
 Alfonso Medina Marrero
+
 Alfonso Santana Samper
+
 Paula Catalan
